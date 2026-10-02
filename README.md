@@ -2,7 +2,7 @@
 
 **A scroll-driven 3D logistics concept that follows one parcel through a living delivery network — from pickup to its final destination.**
 
-[**Open Live Experience →**](https://delivery.productgrammar.dev/)
+[**Open Live Experience →**](https://delivery-showcase.vercel.app)
 
 ![Relay interactive logistics experience](screenshots/01-relay-hero.png)
 
@@ -85,12 +85,10 @@ This is an independent speculative design and development showcase. It does not 
 
 The live interactive concept is available at:
 
-**https://delivery.productgrammar.dev/**
+**https://delivery-showcase.vercel.app**
 
 The production source code is private. This public repository exists as a portfolio showcase with project information and visual media.
 
 ---
 
-**Concept, design & development by Marina Merkotan / Product Grammar**
-
-[productgrammar.dev](https://productgrammar.dev/)
+**Concept, design & development by Marina Merkotan**
